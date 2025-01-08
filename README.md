@@ -31,7 +31,7 @@ Download the project files to your local machine:
 
 ```bash
 git clone https://github.com/nivlevi1/Rain-Prediction-Analysis
-cd project/
+cd Mid_Project_Naya_DE/
 ```
 
 ---
