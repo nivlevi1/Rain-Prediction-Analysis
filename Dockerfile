@@ -5,7 +5,7 @@ FROM jupyter/base-notebook:latest
 USER root
 
 # Install Python libraries
-RUN pip install --no-cache-dir pandas numpy matplotlib seaborn
+RUN pip install --no-cache-dir pandas numpy matplotlib seaborn scikit-learn
 
 # Create a directory for data
 RUN mkdir /home/jovyan/data
