@@ -30,7 +30,7 @@ Make sure you have:
 Download the project files to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nivlevi1/Rain-Prediction-Analysis
 cd project/
 ```
 
